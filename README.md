@@ -63,9 +63,6 @@ Below is a brief showcase of some of the more interesting projects I have comple
 
 ## Work Related Projects
 
-Uploaded to this repository are the following: 
-
-
 #### Potential Account Engagement Dashboard 
 >	Link: Upon Request
 >	
